@@ -1,4 +1,4 @@
-# Fetching-Movies-Details-from-PostgreSql-Database
+# Fetching-Movies-Details-from-Database
 
 Different API is implemeted for searching and updating movies details into database are listed below :
 
